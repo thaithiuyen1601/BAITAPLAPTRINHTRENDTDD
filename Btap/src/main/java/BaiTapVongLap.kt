@@ -3,7 +3,7 @@ package com.example.btap
 fun main() {
     // Thong tin sinh vien co san
     val name = "Thai Thi Uyen"
-    val studentId = "2415053122243"
+    val studentId = "2415053122247"
 
     println("=================================")
     println("BAI TAP VONG LAP - SINH VIEN: $name - MSSV: $studentId")
