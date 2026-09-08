@@ -3,7 +3,7 @@ package com.example.btap
 fun main() {
     // 1. Thong tin sinh vien co san
     val name = "Thai Thi Uyen"
-    val studentId = "2415053122243"
+    val studentId = "2415053122247"
 
     // 2. Nhap cac cot diem tu ban phim
     print("Nhap diem Math: ")
