@@ -13,7 +13,7 @@ fun main() {
     // 2. Khởi tạo danh sách sinh viên với 5 sinh viên mẫu riêng biệt
     val studentList = mutableListOf(
         Student("2415051222137", "Le Duy Khanh", 20, "Mechatronics Engineering", 8.6),
-        Student("2415053245343", "Hoang Ngoc Anh", 20, "Data Science", 7.4),
+        Student("2415053245343", "Hoang Ngoc Huy", 20, "Data Science", 7.4),
         Student("2415053124918", "Thai Khanh Chi", 19, "Business Administration", 4.8),
         Student("2315053444409", "Phan Dan Le", 21, "Software Engineering", 9.1),
         Student("2415052155530", "Le Thi Thuy Tien", 20, "Graphic Design", 6.5)
